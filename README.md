@@ -44,7 +44,7 @@
   </a>
 </p>
 <div align="center">
-  <h2 align="left">🧰 Languages and Tools:</h2>
+  <h2 align="left">🧰 Languages and Tools I have tried :</h2>
 </div>
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank">
