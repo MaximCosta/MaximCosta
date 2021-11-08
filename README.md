@@ -24,7 +24,7 @@
   </a>
 </p>
 <div align="center">
-  <h2 align="left">📧 Connect with me:</h2>
+  <h2 align="left">🌍 Connect with me:</h2>
 </div>
 <p align="center">
   <a href="https://codepen.io/maxim-costa" target="blank">
