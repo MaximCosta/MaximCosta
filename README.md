@@ -163,6 +163,9 @@
   <h2 align="left">🏆GitHub Stats :</h2>
 </div>
 <p align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaximCosta&hide_border=true&theme=redical" alt="maximcosta" />
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximcosta&show_icons=true&locale=en" alt="maximcosta" />
 </p>
 <p align="center">
