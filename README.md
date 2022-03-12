@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://max-dev.fr">Maxim</a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    <img src="https://readme-typing-svg.herokuapp.com?font=consola&size=22&duration=10000&center=true&vCenter=true&width=1050&lines=computer+programming+%3F+Obviously+you+mean+black+magic;Deleted+code+is+debugged+code.;Software+and+cathedrals+are+a+bit+the+same+thing+-+first+we+build+them%2C+then+we+pray.;Computers+are+fast+-+programmers+keep+them+slow;Good+code+is+like+a+good+joke.+it+needs+no+explanation+">
   </h1>
 </div>
 <p align="center">
