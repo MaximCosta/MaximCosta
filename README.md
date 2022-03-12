@@ -27,48 +27,30 @@
 <div align="center">
     <h2 align="left">🖥️ I work on :</h2>
 </div>
-<div align="center" style="display: flex;justify-content: space-evenly;">
-<div>
-    <a href="https://portal.azure.com/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
-        <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" width="30" height="30" style="margin-right: 10px" />
-        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Microsoft Azure</span>
+<span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">
+    <a href="https://portal.azure.com/" target="_blank" >
+        <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" width="30" height="30" />
     </a>
-</div>
-<div>
-    <a href="https://www.microsoft.com/fr-fr/windows/windows-11?r=1" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="30" height="30" style="margin-right: 10px" />
-        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Windows 10/11</span>
+    <a href="https://www.microsoft.com/fr-fr/windows/windows-11?r=1" target="_blank" >
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="30" height="30" />
     </a>
-</div>
-<div>
-    <a href="https://www.ubuntu-fr.org/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
-        <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="30" height="30" style="margin-right: 10px" />
-        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Ubuntu</span>
+    <a href="https://www.ubuntu-fr.org/" target="_blank" >
+        <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="30" height="30" />
     </a>
-</div>
-<div>
-    <a href="https://www.kali.org/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
-        <img src="https://i.ibb.co/bJKmHmw/Kali-Linux-13.png" width="45" height="30" style="margin-right: 10px" />
-        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Kali-Linux</span>
+    <a href="https://www.kali.org/" target="_blank" >
+        <img src="https://i.ibb.co/bJKmHmw/Kali-Linux-13.png" width="45" height="30" />
     </a>
-</div>
-<div>
-    <a href="https://docs.microsoft.com/fr-fr/windows/wsl/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
-        <img src="https://i.ibb.co/XZ6bpjv/windows-linux-dev-env.png" width="40" height="30" style="margin-right: 10px" />
-        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Windows Subsystem for Linux</span>
+    <a href="https://docs.microsoft.com/fr-fr/windows/wsl/" target="_blank" >
+        <img src="https://i.ibb.co/XZ6bpjv/windows-linux-dev-env.png" width="40" height="30" />
     </a>
-</div>
-<div>
-    <a href="https://docs.microsoft.com/fr-fr/windows/android/wsa/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
-        <img src="https://winaero.com/blog/wp-content/uploads/2021/10/WSA-icon.png" width="30" height="30" style="margin-right: 10px" />
-        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Windows Subsystem for Android</span>
+    <a href="https://docs.microsoft.com/fr-fr/windows/android/wsa/" target="_blank" >
+        <img src="https://winaero.com/blog/wp-content/uploads/2021/10/WSA-icon.png" width="30" height="30" />
     </a>
-</div>
-</div>
+</span>
 <div align="center">
     <h2 align="left">🧰 Languages and Tools I have tried :</h2>
 </div>
-<p align="center">
+<span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">
     <a href="https://www.arduino.cc/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
     </a>
@@ -180,7 +162,7 @@
     <a href="https://vuejs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
     </a>
-</p>
+</span>
 <div align="center">
     <h2 align="left">🏆GitHub Stats :</h2>
 </div>
