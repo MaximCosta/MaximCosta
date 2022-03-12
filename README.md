@@ -25,25 +25,46 @@
     </a>
 </p>
 <div align="center">
-    <h2 align="left">🌍 Connect with me:</h2>
+    <h2 align="left">🖥️ I work on :</h2>
 </div>
-<p align="center">
-    <a href="https://codepen.io/maxim-costa" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maxim-costa" height="30" width="40" />
+<div align="center" style="display: flex;justify-content: space-evenly;">
+<div>
+    <a href="https://portal.azure.com/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
+        <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" width="30" height="30" style="margin-right: 10px" />
+        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Microsoft Azure</span>
     </a>
-    <a href="https://linkedin.com/in/maxim-costa-355a111a3" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxim-costa-355a111a3" height="30" width="40" />
+</div>
+<div>
+    <a href="https://www.microsoft.com/fr-fr/windows/windows-11?r=1" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="30" height="30" style="margin-right: 10px" />
+        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Windows 10/11</span>
     </a>
-    <a href="https://stackoverflow.com/users/15381788" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15381788" height="30" width="40" />
+</div>
+<div>
+    <a href="https://www.ubuntu-fr.org/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
+        <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="30" height="30" style="margin-right: 10px" />
+        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Ubuntu</span>
     </a>
-    <a href="https://instagram.com/ninoyoko1447" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ninoyoko1447" height="30" width="40" />
+</div>
+<div>
+    <a href="https://www.kali.org/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
+        <img src="https://i.ibb.co/bJKmHmw/Kali-Linux-13.png" width="45" height="30" style="margin-right: 10px" />
+        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Kali-Linux</span>
     </a>
-    <a href="https://discord.gg/爪ค乂҉i̽☯#0468" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="爪ค乂҉i̽☯#0468" height="30" width="40" />
+</div>
+<div>
+    <a href="https://docs.microsoft.com/fr-fr/windows/wsl/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
+        <img src="https://i.ibb.co/XZ6bpjv/windows-linux-dev-env.png" width="40" height="30" style="margin-right: 10px" />
+        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Windows Subsystem for Linux</span>
     </a>
-</p>
+</div>
+<div>
+    <a href="https://docs.microsoft.com/fr-fr/windows/android/wsa/" target="_blank" style="display: table;text-decoration: none;background: black;padding: 5px;border-radius: 5px;color: lightgray;font-weight: bold;font-family: system-ui;line-height: 0;">
+        <img src="https://winaero.com/blog/wp-content/uploads/2021/10/WSA-icon.png" width="30" height="30" style="margin-right: 10px" />
+        <span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">Windows Subsystem for Android</span>
+    </a>
+</div>
+</div>
 <div align="center">
     <h2 align="left">🧰 Languages and Tools I have tried :</h2>
 </div>
@@ -172,4 +193,24 @@
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaximCosta" alt="maximcosta" />
+</p>
+<div align="center">
+    <h2 align="left">🌍 Connect with me:</h2>
+</div>
+<p align="center">
+    <a href="https://codepen.io/maxim-costa" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maxim-costa" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/maxim-costa-355a111a3" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxim-costa-355a111a3" height="30" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/15381788" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15381788" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/ninoyoko1447" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ninoyoko1447" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/爪ค乂҉i̽☯#0468" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="爪ค乂҉i̽☯#0468" height="30" width="40" />
+    </a>
 </p>
