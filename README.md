@@ -167,6 +167,9 @@
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaximCosta&hide_border=true&theme=redical" alt="maximcosta" />
 </p>
 <p align="center">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximcosta&show_icons=true&locale=en&theme=radical" alt="maximcosta" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximcosta&show_icons=true&locale=en&theme=radical&layout=compact" alt="maximcosta" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=maximcosta&show_icons=true&show_icons=true&theme=radical&include_all_commits=true" alt="maximcosta" />
+</p>
+<p align="center"> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaximCosta" alt="maximcosta" />
 </p>
