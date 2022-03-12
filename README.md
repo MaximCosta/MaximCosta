@@ -20,7 +20,7 @@
 <h3 align="center"></h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maxim-costa" alt="maxim-costa" />
+    <img src="https://github-profile-trophy.vercel.app/?username=maximcosta" alt="maximcosta" />
   </a>
 </p>
 <div align="center">
@@ -163,11 +163,11 @@
   <h2 align="left">🏆GitHub Stats :</h2>
 </div>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxim-costa&show_icons=true&locale=en" alt="maxim-costa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximcosta&show_icons=true&locale=en" alt="maximcosta" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxim-costa&" alt="maxim-costa" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximcosta&" alt="maximcosta" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxim-costa&show_icons=true&locale=en&layout=compact" alt="maxim-costa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximcosta&show_icons=true&locale=en&layout=compact" alt="maximcosta" />
 </p>
