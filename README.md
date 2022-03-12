@@ -27,7 +27,7 @@
 <div align="center">
     <h2 align="left">🖥️ I work on :</h2>
 </div>
-<span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">
+<p align="center">
     <a href="https://portal.azure.com/" target="_blank" >
         <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" width="30" height="30" />
     </a>
@@ -46,11 +46,11 @@
     <a href="https://docs.microsoft.com/fr-fr/windows/android/wsa/" target="_blank" >
         <img src="https://winaero.com/blog/wp-content/uploads/2021/10/WSA-icon.png" width="30" height="30" />
     </a>
-</span>
+</p>
 <div align="center">
     <h2 align="left">🧰 Languages and Tools I have tried :</h2>
 </div>
-<span style="display: table-cell; text-align: center; vertical-align: middle; font-weight: bold">
+<p align="center">
     <a href="https://www.arduino.cc/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
     </a>
@@ -162,7 +162,7 @@
     <a href="https://vuejs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
     </a>
-</span>
+</p>
 <div align="center">
     <h2 align="left">🏆GitHub Stats :</h2>
 </div>
