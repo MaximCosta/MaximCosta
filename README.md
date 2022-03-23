@@ -10,18 +10,14 @@
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
-<details>
-    <summary>
-        <h2 align="left">
-            <b>🎓About me:</b>
-        </h2>
-    </summary>
-    <ul>
-        <li>🐲 Name : Maxim Costa</li>
-        <li>🥷 Age : 18 ans</li>
-        <li>👾 Bio : Je fais des petits jeux, des sites et autres. Mes langages : Python, WEB (html/css/js/php/mysql), React, Uno (arduino), C# (Unity), Java (mod/plugin minecraft) Edit profile</li>
-    </ul>
-</details>
+<div align="center">
+    <h2 align="left">🎓About me:</h2>
+</div>
+<ul>
+    <li>🐲 Name : Maxim Costa</li>
+    <li>🥷 Age : 18 ans</li>
+    <li>👾 Bio : Je fais des petits jeux, des sites et autres. Mes langages : Python, WEB (html/css/js/php/mysql), React, Uno (arduino), C# (Unity), Java (mod/plugin minecraft) Edit profile</li>
+</ul>
 <div align="center">
     <h2 align="left">📧 A passionate frontend developer from French :</h2>
 </div>
