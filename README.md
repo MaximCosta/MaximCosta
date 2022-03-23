@@ -1,14 +1,21 @@
 <div align="center">
-    <h1>Hi there, I'm <a href="https://max-dev.fr">Maxim</a>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    <h1>
+        Hi there, I'm <a href="https://max-dev.fr">Maxim</a>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
     </h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=consola&size=22&duration=10000&center=true&vCenter=true&width=1050&lines=computer+programming+%3F+Obviously+you+mean+black+magic;Deleted+code+is+debugged+code.;Software+and+cathedrals+are+a+bit+the+same+thing+-+first+we+build+them%2C+then+we+pray.;Computers+are+fast+-+programmers+keep+them+slow;Good+code+is+like+a+good+joke.+it+needs+no+explanation+">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=consola&size=22&duration=10000&center=true&vCenter=true&width=1050&lines=computer+programming+%3F+Obviously+you+mean+black+magic;Deleted+code+is+debugged+code.;Software+and+cathedrals+are+a+bit+the+same+thing+-+first+we+build+them%2C+then+we+pray.;Computers+are+fast+-+programmers+keep+them+slow;Good+code+is+like+a+good+joke.+it+needs+no+explanation+"
+    />
 </div>
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 <details>
-          <summary><b>🎓About me:</b></summary>
+    <summary>
+        <h2 align="left">
+            <b>🎓About me:</b>
+        </h2>
+    </summary>
     <ul>
         <li>🐲 Name : Maxim Costa</li>
         <li>🥷 Age : 18 ans</li>
@@ -28,22 +35,22 @@
     <h2 align="left">🖥️ I work on :</h2>
 </div>
 <p align="center">
-    <a href="https://portal.azure.com/" target="_blank" >
+    <a href="https://portal.azure.com/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" width="30" height="30" />
     </a>
-    <a href="https://www.microsoft.com/fr-fr/windows/windows-11?r=1" target="_blank" >
+    <a href="https://www.microsoft.com/fr-fr/windows/windows-11?r=1" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="30" height="30" />
     </a>
-    <a href="https://www.ubuntu-fr.org/" target="_blank" >
+    <a href="https://www.ubuntu-fr.org/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="30" height="30" />
     </a>
-    <a href="https://www.kali.org/" target="_blank" >
+    <a href="https://www.kali.org/" target="_blank">
         <img src="https://i.ibb.co/bJKmHmw/Kali-Linux-13.png" width="45" height="30" />
     </a>
-    <a href="https://docs.microsoft.com/fr-fr/windows/wsl/" target="_blank" >
+    <a href="https://docs.microsoft.com/fr-fr/windows/wsl/" target="_blank">
         <img src="https://i.ibb.co/XZ6bpjv/windows-linux-dev-env.png" width="40" height="30" />
     </a>
-    <a href="https://docs.microsoft.com/fr-fr/windows/android/wsa/" target="_blank" >
+    <a href="https://docs.microsoft.com/fr-fr/windows/android/wsa/" target="_blank">
         <img src="https://winaero.com/blog/wp-content/uploads/2021/10/WSA-icon.png" width="30" height="30" />
     </a>
 </p>
