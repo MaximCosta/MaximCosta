@@ -8,9 +8,7 @@
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 <details>
-    <div align="center">
           <summary><b>🎓About me:</b></summary>
-    </div>
     <ul>
         <li>🐲 Name : Maxim Costa</li>
         <li>🥷 Age : 18 ans</li>
