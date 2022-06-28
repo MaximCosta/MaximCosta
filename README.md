@@ -16,7 +16,17 @@
 <ul>
     <li>🐲 Name : Maxim Costa</li>
     <li>🥷 Age : 18 ans</li>
-    <li>👾 Bio : Je fais des petits jeux, des sites et autres. Mes langages : Python, WEB (html/css/js/php/mysql), React, Uno (arduino), C# (Unity), Java (mod/plugin minecraft) Edit profile</li>
+    <li>👾 Bio : Je fais des petits jeux, des sites et autres. Mes langages :
+            <ul>
+                <li>Scripting: (Bash, Batch, Python)</li>
+                <li>Fronted (HTML, CSS, js)</li>
+                <li>Backend (PHP, Python, js)</li>
+                <li>Sql: (Mysql, Postgresql)</li>
+                <li>NoSql: (Firebase, MongoDB)</li>
+                <li>Mobile: (React)</li>
+                <li>Hardware: (Uno)</li>
+                <li>Other: (C, C#, GLPK)</li>
+            </ul></li>
 </ul>
 <div align="center">
     <h2 align="left">📧 A passionate frontend developer from French :</h2>
