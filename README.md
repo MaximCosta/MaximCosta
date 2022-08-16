@@ -211,4 +211,6 @@
 </p>
 <a href="https://github.com/MaximCosta?tab=overview&from=2042-12-01&to=2042-12-31">Github 42</a>
 
-Best Friend: [@ARKANYOTA](github.com/ARKANYOTA)
+Best Friend: 
+    [@ARKANYOTA](github.com/ARKANYOTA)
+    [@Yolwoocle](github.com/Yolwoocle)
