@@ -19,8 +19,8 @@
     <li>👾 Bio : Je fais des petits jeux, des sites et autres. Mes langages :
             <ul>
                 <li>Scripting: (Bash, Batch, Python)</li>
-                <li>Fronted (HTML, CSS, js)</li>
-                <li>Backend (PHP, Python, js)</li>
+                <li>Fronted (HTML, CSS, JS)</li>
+                <li>Backend (PHP, Python, NodeJS)</li>
                 <li>Sql: (Mysql, Postgresql)</li>
                 <li>NoSql: (Firebase, MongoDB)</li>
                 <li>Mobile: (React)</li>
