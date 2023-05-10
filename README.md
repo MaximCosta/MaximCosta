@@ -29,7 +29,7 @@
             </ul></li>
 </ul>
 <div align="center">
-    <h2 align="left">📧 A passionate frontend developer from French :</h2>
+    <h2 align="left">📧 A passionate frontend developer from France :</h2>
 </div>
 <h3 align="center"></h3>
 <p align="center">
