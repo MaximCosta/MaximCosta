@@ -11,7 +11,7 @@
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 <div align="center">
-    <h2 align="left">🎓About me:</h2>
+    <h2 align="left">🎓About me :</h2>
 </div>
 <ul>
     <li>🐲 Name : Maxim Costa</li>
