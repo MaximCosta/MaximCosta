@@ -3,212 +3,135 @@
         Hi there, I'm <a href="https://max-dev.fr">Maxim</a>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
     </h1>
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=consola&size=22&duration=10000&center=true&vCenter=true&width=1050&lines=computer+programming+%3F+Obviously+you+mean+black+magic;Deleted+code+is+debugged+code.;Software+and+cathedrals+are+a+bit+the+same+thing+-+first+we+build+them%2C+then+we+pray.;Computers+are+fast+-+programmers+keep+them+slow;Good+code+is+like+a+good+joke.+it+needs+no+explanation+"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=consola&size=22&duration=10000&center=true&vCenter=true&width=1050&lines=computer+programming+%3F+Obviously+you+mean+black+magic;Deleted+code+is+debugged+code.;Software+and+cathedrals+are+a+bit+the+same+thing+-+first+we+build+them%2C+then+we+pray.;Computers+are+fast+-+programmers+keep+them+slow;Good+code+is+like+a+good+joke.+it+needs+no+explanation+" />
 </div>
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
-<div align="center">
-    <h2 align="left">🎓About me :</h2>
+
+<h2 align="left">Me 👨‍🎓</h2>
+
+###
+
+<p align="left">- 🤔 Type: Human (I think)<br>- 🐲 Name : Maxim Costa<br>- 🥷 Age : 20 ans<br>- 👾 Je fais des petits jeux, sites, apps et autres.</p>
+
+###
+
+<h2 align="left">System 💻</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
-<ul>
-    <li>🐲 Name : Maxim Costa</li>
-    <li>🥷 Age : 18 ans</li>
-    <li>👾 Bio : Je fais des petits jeux, des sites et autres. Mes langages :
-            <ul>
-                <li>Scripting: (Bash, Batch, Python)</li>
-                <li>Fronted (HTML, CSS, JS)</li>
-                <li>Backend (PHP, Python, NodeJS)</li>
-                <li>Sql: (Mysql, Postgresql)</li>
-                <li>NoSql: (Firebase, MongoDB)</li>
-                <li>Mobile: (React)</li>
-                <li>Hardware: (Uno)</li>
-                <li>Other: (C, C#, GLPK)</li>
-            </ul></li>
-</ul>
-<div align="center">
-    <h2 align="left">📧 A passionate frontend developer from France :</h2>
+
+###
+
+<h2 align="left">Language 🎓</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-<h3 align="center"></h3>
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=maximcosta" alt="maximcosta" />
-    </a>
-</p>
-<div align="center">
-    <h2 align="left">🖥️ I work on :</h2>
+
+###
+
+<h2 align="left">Tools 🌟</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
-<p align="center">
-    <a href="https://portal.azure.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" width="30" height="30" />
-    </a>
-    <a href="https://www.microsoft.com/fr-fr/windows/windows-11?r=1" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="30" height="30" />
-    </a>
-    <a href="https://www.ubuntu-fr.org/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="30" height="30" />
-    </a>
-    <a href="https://www.kali.org/" target="_blank">
-        <img src="https://i.ibb.co/bJKmHmw/Kali-Linux-13.png" width="45" height="30" />
-    </a>
-    <a href="https://docs.microsoft.com/fr-fr/windows/wsl/" target="_blank">
-        <img src="https://i.ibb.co/XZ6bpjv/windows-linux-dev-env.png" width="40" height="30" />
-    </a>
-    <a href="https://docs.microsoft.com/fr-fr/windows/android/wsa/" target="_blank">
-        <img src="https://winaero.com/blog/wp-content/uploads/2021/10/WSA-icon.png" width="30" height="30" />
-    </a>
-</p>
-<div align="center">
-    <h2 align="left">🧰 Languages and Tools I have tried :</h2>
+
+###
+
+<h2 align="left">Connect 🌍</h2>
+
+###
+
+<div align="left">
+  <a href="https://discordlookup.com/user/325248134361907201" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/mxm_maxio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/maxim-costa-355a111a3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto://mxmcosta@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
-<p align="center">
-    <a href="https://www.arduino.cc/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
-    </a>
-    <a href="https://www.electronjs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://heroku.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://mariadb.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://www.qt.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-    </a>
-    <a href="https://www.selenium.dev" target="_blank">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    </a>
-    <a href="https://unity.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-    </a>
-</p>
+
+###
+
+<h2 align="left">Stats 🏆</h2>
+
+###
+
 <div align="center">
-    <h2 align="left">🏆GitHub Stats :</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaximCosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<p align="center">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaximCosta&hide_border=true&theme=redical" alt="maximcosta" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximcosta&show_icons=true&show_icons=true&theme=radical&include_all_commits=true" alt="maximcosta" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximcosta&show_icons=true&locale=en&theme=radical&layout=compact" alt="maximcosta" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaximCosta" alt="maximcosta" />
-</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/MaximCosta/MaximCosta/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-    <h2 align="left">🌍 Connect with me:</h2>
+  <img src="https://profile-counter.glitch.me/MaximCosta/count.svg?"  />
 </div>
-<p align="center">
-    <a href="https://codepen.io/maxim-costa" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maxim-costa" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/maxim-costa-355a111a3" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxim-costa-355a111a3" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/15381788" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15381788" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/mxm_maxio" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ninoyoko1447" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/爪ค乂҉i̽☯#0468" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="爪ค乂҉i̽☯#0468" height="30" width="40" />
-    </a>
-</p>
+
+###
 <a href="https://github.com/MaximCosta?tab=overview&from=2042-12-01&to=2042-12-31">Github 42</a>
 
 Best Friend: [@ARKANYOTA](github.com/ARKANYOTA)
