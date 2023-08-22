@@ -123,6 +123,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MaximCosta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/MaximCosta/MaximCosta/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -132,6 +138,12 @@
 </div>
 
 ###
-<a href="https://github.com/MaximCosta?tab=overview&from=2042-12-01&to=2042-12-31">Github 42</a>
 
-Best Friend: [@ARKANYOTA](github.com/ARKANYOTA)
+<div align="left">
+  <a href="https://github.com/MaximCosta?tab=overview&from=2042-12-01&to=2042-12-31" target="_blank">
+    <img src="./assets/42.png" width="52" height="40" alt="42 logo"  />
+  </a>
+  <a href="https://github.com/ARKANYOTA" target="_blank">
+    <img src="./assets/friends.png" width="52" height="40" alt="friends logo"  />
+  </a>
+</div>
