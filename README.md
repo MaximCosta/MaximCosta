@@ -141,9 +141,9 @@
 
 <div align="left">
   <a href="https://github.com/MaximCosta?tab=overview&from=2042-12-01&to=2042-12-31" target="_blank">
-    <img src="./assets/42.png" width="52" height="40" alt="42 logo"  />
+    <img src="./assets/42.png" width="52" alt="42 logo"  />
   </a>
   <a href="https://github.com/ARKANYOTA" target="_blank">
-    <img src="./assets/friends.png" width="52" height="40" alt="friends logo"  />
+    <img src="./assets/friends.png" width="52" alt="friends logo"  />
   </a>
 </div>
