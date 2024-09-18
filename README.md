@@ -129,7 +129,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MaximCosta/MaximCosta/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MaximCosta/MaximCosta/output/github-snake-dark.svg?palette=github-light" alt="Snake animation" />
 
 ###
 
