@@ -1,149 +1,20 @@
-<div align="center">
-    <h1>
-        Hi there, I'm <a href="https://max-dev.fr">Maxim</a>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-    </h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=consola&size=22&duration=10000&center=true&vCenter=true&width=1050&lines=computer+programming+%3F+Obviously+you+mean+black+magic;Deleted+code+is+debugged+code.;Software+and+cathedrals+are+a+bit+the+same+thing+-+first+we+build+them%2C+then+we+pray.;Computers+are+fast+-+programmers+keep+them+slow;Good+code+is+like+a+good+joke.+it+needs+no+explanation+" />
-</div>
-<p align="center">
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
+## Salut, moi c'est Maxim 👋
 
-<h2 align="left">Me 👨‍🎓</h2>
+Développeur à Montpellier, 23 ans. Je bosse sur des jeux vidéo chez **Scalab Games**, et le reste du temps je fabrique des petits trucs sur le web — des jeux, des sites, des outils, des apps. Surtout des petits trucs. Beaucoup.
 
-###
+La plupart vivent sous **[My-Monkey](https://my-monkey.fr)**, le collectif / bac à sable où on shippe vite et où on assume les idées un peu bêtes : un hub de mini-jeux quotidiens, une extension qui fouille tes favoris en local, des cartes communautaires douteuses, un blog, et une longue liste de projets qui n'avaient aucune raison d'exister. C'est précisément pour ça qu'ils existent.
 
-<p align="left">- 🤔 Type: Human (I think)<br>- 🐲 Name : Maxim Costa<br>- 🥷 Age : 20 ans<br>- 👾 Je fais des petits jeux, sites, apps et autres.</p>
+**Ce qui me fait avancer :**
+- shipper petit et souvent, plutôt que parfait et jamais
+- l'auto-hébergement — j'ai un serveur sous le bureau qui fait tourner la moitié de cette liste (et un serveur Minecraft, accessoirement)
+- automatiser tout ce qui peut l'être, en particulier ce qui ne le méritait pas
+- bidouiller jusqu'à ce que ça marche, *puis* comprendre pourquoi
 
-###
+**En ligne en ce moment :**
+- 🎮 **[games.my-monkey.fr](https://games.my-monkey.fr)** — un jeu par jour, en solo ou en multi
+- 🔎 **[Snaaplt](https://snaaplt.my-monkey.fr)** — recherche dans tes favoris, 100 % en local *(sur le Chrome Web Store)*
+- ✍️ **[le blog](https://blog.my-monkey.fr)** — des post-mortems et ce qu'on apprend en cassant des trucs
 
-<h2 align="left">System 💻</h2>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-</div>
-
-###
-
-<h2 align="left">Language 🎓</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">Tools 🌟</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<h2 align="left">Connect 🌍</h2>
-
-###
-
-<div align="left">
-  <a href="https://discordlookup.com/user/325248134361907201" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/mxm_maxio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/maxim-costa-355a111a3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto://mxmcosta@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Stats 🏆</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaximCosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MaximCosta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MaximCosta/MaximCosta/output/github-snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MaximCosta/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://github.com/MaximCosta?tab=overview&from=2042-12-01&to=2042-12-31" target="_blank">
-    <img src="./assets/42.png" width="52" alt="42 logo"  />
-  </a>
-  <a href="https://github.com/ARKANYOTA" target="_blank">
-    <img src="./assets/friends.png" width="52" alt="friends logo"  />
-  </a>
-</div>
+<sub>Ailleurs : <a href="https://my-monkey.fr">My-Monkey</a> · <a href="https://www.linkedin.com/in/maxim-costa-355a111a3/">LinkedIn</a> · <a href="https://www.instagram.com/mxm_maxio/">Instagram</a> · <a href="mailto:mxmcosta@gmail.com">Mail</a></sub>
