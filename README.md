@@ -1,20 +1,35 @@
-## Salut, moi c'est Maxim 👋
+<h1 align="center">Hey, I'm Maxim 👋</h1>
 
-Développeur à Montpellier, 23 ans. Je bosse sur des jeux vidéo chez **Scalab Games**, et le reste du temps je fabrique des petits trucs sur le web — des jeux, des sites, des outils, des apps. Surtout des petits trucs. Beaucoup.
-
-La plupart vivent sous **[My-Monkey](https://my-monkey.fr)**, le collectif / bac à sable où on shippe vite et où on assume les idées un peu bêtes : un hub de mini-jeux quotidiens, une extension qui fouille tes favoris en local, des cartes communautaires douteuses, un blog, et une longue liste de projets qui n'avaient aucune raison d'exister. C'est précisément pour ça qu'ils existent.
-
-**Ce qui me fait avancer :**
-- shipper petit et souvent, plutôt que parfait et jamais
-- l'auto-hébergement — j'ai un serveur sous le bureau qui fait tourner la moitié de cette liste (et un serveur Minecraft, accessoirement)
-- automatiser tout ce qui peut l'être, en particulier ce qui ne le méritait pas
-- bidouiller jusqu'à ce que ça marche, *puis* comprendre pourquoi
-
-**En ligne en ce moment :**
-- 🎮 **[games.my-monkey.fr](https://games.my-monkey.fr)** — un jeu par jour, en solo ou en multi
-- 🔎 **[Snaaplt](https://snaaplt.my-monkey.fr)** — recherche dans tes favoris, 100 % en local *(sur le Chrome Web Store)*
-- ✍️ **[le blog](https://blog.my-monkey.fr)** — des post-mortems et ce qu'on apprend en cassant des trucs
+<p align="center"><em>I build small things on the web. A suspicious number of them.</em></p>
 
 ---
 
-<sub>Ailleurs : <a href="https://my-monkey.fr">My-Monkey</a> · <a href="https://www.linkedin.com/in/maxim-costa-355a111a3/">LinkedIn</a> · <a href="https://www.instagram.com/mxm_maxio/">Instagram</a> · <a href="mailto:mxmcosta@gmail.com">Mail</a></sub>
+Game developer at **Scalab Games** by day, based in Montpellier. The rest of the time I'm shipping little things — games, sites, tools, apps. Mostly little things. A lot of them.
+
+Most of them live under **[My-Monkey](https://my-monkey.fr)** — part non-profit collective, part agency. We build tools, apps and websites for individuals and businesses, and in between we ship whatever silly idea sounds fun that week: a daily mini-games hub, a browser extension that searches your bookmarks locally, a few questionable community maps, a blog, and a long list of projects that had no reason to exist. Which is exactly why they do.
+
+**What I'm into:**
+- 🚀 shipping small and often, rather than perfect and never
+- 🧩 a good technical challenge — the harder, the better
+- 🔐 cybersecurity, for the fun of it — a fair share of CTFs, and podium finishes on nearly all of them
+- 🖥️ self-hosting — there's a server under my desk running half the list above (and a Minecraft server, naturally)
+- 🤖 automating anything that can be automated, especially the things that didn't deserve it
+
+**Live right now:**
+- 🎮 **[games.my-monkey.fr](https://games.my-monkey.fr)** — a new game every day, solo or with friends
+- ✍️ **[the blog](https://blog.my-monkey.fr)** — where I drop post-mortems and things we learn by breaking stuff, every now and then
+- 🔎 **[Snaaplt](https://snaaplt.my-monkey.fr)** — search your bookmarks, 100% on-device *(on the Chrome Web Store)*
+
+---
+
+<p align="center"><sub><em>I write code, computers slow it right back down. We're even.</em></sub></p>
+
+<p align="center">
+  <a href="https://my-monkey.fr">My-Monkey</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/maxim-costa-355a111a3/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/maxim.cookie/">Instagram</a>
+</p>
+
+<p align="center">
+  <sub>Get in touch — <a href="mailto:mxmcosta@gmail.com">mxmcosta@gmail.com</a> (me) &nbsp;·&nbsp; <a href="mailto:contact@my-monkey.fr">contact@my-monkey.fr</a> (My-Monkey)</sub>
+</p>
