@@ -1,33 +1,13 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="maxim@my-monkey:~$ whoami — Maxim · developer · games · cybersecurity" width="820">
+  <img src="./assets/banner.svg" width="840"
+       alt="Terminal session — maxim@my-monkey. whoami: Maxim, game developer at Scalab Games, based in Montpellier. I ship little things on the web: games, sites, tools, apps. Most live under My-Monkey, part non-profit collective, part agency, building tools, apps and websites for individuals and businesses. Into: shipping small and often, technical challenges, cybersecurity for fun (CTF podiums), self-hosting, automation. Live right now: games.my-monkey.fr, blog.my-monkey.fr, snaaplt.my-monkey.fr.">
 </p>
-
----
-
-Game developer at **Scalab Games** by day, and the rest of the time I'm shipping little things on the web — games, sites, tools, apps. Mostly little things. A lot of them.
-
-Most of them live under **[My-Monkey](https://my-monkey.fr)** — part non-profit collective, part agency. We build tools, apps and websites for individuals and businesses, and in between we ship whatever silly idea sounds fun that week: a daily mini-games hub, a browser extension that searches your bookmarks locally, a few questionable community maps, a blog, and a long list of projects that had no reason to exist. Which is exactly why they do.
-
-### What I'm into
-
-- 🚀 shipping small and often, rather than perfect and never
-- 🧩 a good technical challenge — the harder, the better
-- 🔐 cybersecurity, for the fun of it — a fair share of CTFs, with podium finishes on nearly all of them
-- 🖥️ self-hosting — there's a server under my desk running half the list above (and a Minecraft server, naturally)
-- 🤖 automating anything that can be automated, especially the things that didn't deserve it
-
-### Live right now
-
-- 🎮 **[games.my-monkey.fr](https://games.my-monkey.fr)** — a new game every day, solo or with friends
-- ✍️ **[the blog](https://blog.my-monkey.fr)** — post-mortems and things I learn by breaking stuff, dropped every now and then
-- 🔎 **[Snaaplt](https://snaaplt.my-monkey.fr)** — search your bookmarks, 100% on-device *(on the Chrome Web Store)*
-
----
-
-<p align="center"><sub><em>I write code, computers slow it right back down. We're even.</em></sub></p>
 
 <p align="center">
   <a href="https://my-monkey.fr">My-Monkey</a> &nbsp;·&nbsp;
+  <a href="https://games.my-monkey.fr">games</a> &nbsp;·&nbsp;
+  <a href="https://blog.my-monkey.fr">blog</a> &nbsp;·&nbsp;
+  <a href="https://snaaplt.my-monkey.fr">Snaaplt</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/maxim-costa-355a111a3/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/maxim.cookie/">Instagram</a>
 </p>
