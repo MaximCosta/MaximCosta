@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 264" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="none"/>
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#ffffff" stroke-opacity="0.025" stroke-width="1"/>
+    </pattern>
+    <style>
+      .cover { fill: #0d1117; }
+      .c1 { animation: rev 0.9s steps(25,end) 0.2s forwards; }
+      .c2 { animation: rev 1.7s steps(50,end) 1.2s forwards; }
+      .c3 { animation: rev 1.2s steps(36,end) 3.0s forwards; }
+      .c4 { animation: rev 2.1s steps(62,end) 4.3s forwards; }
+      @keyframes rev { to { transform: translateX(826px); } }
+      .cur { fill: #56d364; animation: blink 1.05s steps(1,end) infinite; }
+      @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+      @media (prefers-reduced-motion: reduce) {
+        .cover { display: none; }
+        .cur { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- window -->
+  <rect x="14" y="12" width="852" height="240" rx="14" fill="#0d1117" stroke="#222b36" stroke-width="1" filter="url(#shadow)"/>
+
+  <!-- body text -->
+  <g font-size="18" letter-spacing="0.2">
+    <text x="42" y="96">
+      <tspan fill="#3fb950">maxim@my-monkey</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#768390">$ </tspan><tspan fill="#c9d1d9">whoami</tspan>
+    </text>
+    <text x="42" y="136">
+      <tspan fill="#56d364">→ </tspan><tspan fill="#e6edf3" font-weight="600">Maxim</tspan><tspan fill="#909dab"> · dev @ Scalab Games · cybersecurity for fun</tspan>
+    </text>
+    <text x="42" y="176">
+      <tspan fill="#3fb950">maxim@my-monkey</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#768390">$ </tspan><tspan fill="#c9d1d9">cat what-i-do.txt</tspan>
+    </text>
+    <text x="42" y="216">
+      <tspan fill="#adbac7">I build small things on the web — a suspicious number of them.</tspan><tspan class="cur"> █</tspan>
+    </text>
+  </g>
+
+  <!-- typewriter covers -->
+  <g class="cover">
+    <rect class="c1" x="42" y="78"  width="826" height="26"/>
+    <rect class="c2" x="42" y="118" width="826" height="26"/>
+    <rect class="c3" x="42" y="158" width="826" height="26"/>
+    <rect class="c4" x="42" y="198" width="826" height="26"/>
+  </g>
+
+  <!-- scanlines -->
+  <rect x="14" y="54" width="852" height="198" fill="url(#scan)"/>
+
+  <!-- title bar -->
+  <g>
+    <path d="M14 26 a14 14 0 0 1 14 -14 h824 a14 14 0 0 1 14 14 v16 h-852 z" fill="#161b22"/>
+    <line x1="14" y1="42" x2="866" y2="42" stroke="#222b36" stroke-width="1"/>
+    <circle cx="40" cy="27" r="6" fill="#ff5f56"/>
+    <circle cx="62" cy="27" r="6" fill="#febc2e"/>
+    <circle cx="84" cy="27" r="6" fill="#28c840"/>
+    <text x="440" y="31" text-anchor="middle" font-size="12.5" fill="#586069" letter-spacing="0.4">maxim@my-monkey — zsh</text>
+  </g>
+</svg>
